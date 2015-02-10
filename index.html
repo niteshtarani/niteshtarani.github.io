@@ -36,7 +36,6 @@
     <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
     <nav id="sidebar-wrapper">
         <ul class="sidebar-nav">
-            <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
                 <a href="#top">Nitesh Tarani</a>
             </li>
@@ -71,9 +70,8 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1>Nitesh Tarani</h1>
-            <br>
-            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+        	<img src="img/nitesh.jpg" class="img-circle" height="250px" width="260px" align="center">
+            <h1 id="NAME">Nitesh Tarani</h1>
         </div>
     </header>
 
@@ -407,16 +405,16 @@
 
     <!-- Custom Theme JavaScript -->
     <script>
-    // Closes the sidebar menu
-    $("#menu-close").click(function(e) {
+   
+    // Opens the sidebar menu
+    $("#menu-toggle").mouseover(function(e) {
         e.preventDefault();
         $("#sidebar-wrapper").toggleClass("active");
     });
 
-    // Opens the sidebar menu
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
+    $("#sidebar-wrapper").mouseleave(function(e){
+    	e.preventDefault();
+    	$("#sidebar-wrapper").toggleClass("active");
     });
 
     // Scrolls to the selected menu item on the page
