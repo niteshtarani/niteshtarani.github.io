@@ -252,3 +252,17 @@ td {
     padding-top: .5em;
     padding-bottom: .5em;
 }
+
+td img
+{
+    height:100px; 
+    width:100px; 
+    align:left ;
+    display:table-cell;
+    vertical-align:left;
+}
+
+td a
+{
+    color: #FFDE00;
+}
