@@ -245,14 +245,10 @@ footer {
 }
 
 
-
 #courses img
 {
     height:100px; 
     width:100px; 
-    align:left ;
-    display:table-cell;
-    vertical-align:left;
 }
 
 #courses a
