@@ -1,8 +1,8 @@
 # site settings
-title: Porfolio
+title: Portfolio
 subtitle:
 email: niteshtarani510@gmail.com
-description: Seasoned Android Developer with 10 years of experience in native app development, complemented by 2+ years in iOS development and 4+ years in backend development. Get started to learn more about me.
+description: Seasoned Android Developer with 10 years of experience in native app development, complemented by 2+ years in iOS development and 4+ years in backend development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
