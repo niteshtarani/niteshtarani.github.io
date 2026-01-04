@@ -18,7 +18,7 @@ After completing my postgraduate studies at **IIT Roorkee**, I joined [Limeroad]
 
 I then moved to [Hike Messenger](https://en.wikipedia.org/wiki/Hike_Messenger), where I had the opportunity to work on core features of a messaging app used by millions of users. This experience deepened my understanding of real-time communication systems and performance optimization for high-traffic applications.
 
-Next, I joined [Directi](https://www.directi.com/) ([Titan](https://titan.email/)) as a Senior Software Engineer and Mobile Lead. Here, I not only led the mobile team but also contributed to technical initiatives in backend development, gaining valuable experience in building enterprise-grade email solutions.
+Next, I joined [Directi](https://www.directi.com/) ([Titan](https://titan.email/)) as a Senior Software Engineer and grew into a Lead Mobile Engineer role, where I led the mobile team and also contributed to the backend development for enterprise grade email solutions.
 
 Currently, I'm part of the [Target](https://target.com/) team as a Lead Engineer, where I focus on enhancing the shopping experience for millions of users across the United States. In this role, I leverage my full-stack expertise to drive impactful improvements to Target's digital platforms.
 

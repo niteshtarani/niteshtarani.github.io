@@ -25,7 +25,7 @@ nav-menu: true
 			<li>Mentoring and upskilling a team of junior engineers while establishing best practices and fostering a culture of technical excellence and continuous improvement.</li>
 		</ul>
 
-		<h3>Senior Software Engineer/Mobile Lead at Directi (Titan) | Bangalore, India</h3>
+		<h3>Senior Software Engineer / Lead Mobile Engineer at Directi (Titan) | Bangalore, India</h3>
 		<p><em>March 2019 - September 2024</em></p>
 		<ul>
 			<li>Led a high-performing team of 4 mobile developers, delivering multiple flagship features that drove exponential growth, resulting in over 200 million new mailbox creations within a single year.</li>
