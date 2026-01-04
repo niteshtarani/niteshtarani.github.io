@@ -1,20 +1,31 @@
 ---
 layout: post
-title: About me
-description: 
+title: About Me
+description: Mobile | Backend | Tech Enthusiast
 image:
 nav-menu: true
 ---
 
-I am a developer who absolutely loves building Mobile apps. I have been building mobile apps since last 10 years. Starting all the way when Android version 2.0 was launched. Yes I am that old :) 
-Apart from android I have also built iOS and cross platform apps with Kotlin Multiplatform Mobile for around 2 years. 
+I'm a passionate developer with over 10 years of experience building software systems. My journey began when Android 3.0 was launched. Yes, I've been around for a while! Over the years, I've specialized in Android development while also gaining extensive experience with iOS and cross-platform solutions using Kotlin Multiplatform Mobile.
 
-How can I forget the back-end experience. I got a chance to work on backend microservices as well where I learnt how to make scalable, resilient and fault-tolerant systems. 
+## Technical Expertise
 
-After completing my post graduation from IIT Roorkee, I joined [Limeroad](https://www.limeroad.com/) as an Android developer where I owned the end-to-end development of the e-commerce app. Post that I moved on to working at [Hike Messenger](https://en.wikipedia.org/wiki/Hike_Messenger) where I got the opportunity to work on many core features of the messaging app.
+Beyond mobile development, I've developed a strong foundation in backend engineering, working with microservices architectures to build scalable, resilient, and fault-tolerant systems. This full-stack perspective allows me to create comprehensive solutions that seamlessly integrate front-end and back-end technologies.
 
-I am curretly working in [Directi](https://www.directi.com/) ([Titan](https://titan.email/)) as a Senior Software Engineer / Mobile lead. 
+## Professional Journey
 
-I have also had opportunity to co-found 2 start-ups. While neither venture achieved long-term success, the experiences were transformative, teaching me a lot of things about businesses. The lessons have shaped me into a better professional.
+After completing my postgraduate studies at **IIT Roorkee**, I joined [Limeroad](https://www.limeroad.com/) as an Android developer, where I owned the end-to-end development of their e-commerce application. This role gave me a solid foundation in building consumer-facing mobile products at scale.
 
-In my free time I love reading about new technologies and trying them out. Current favourite being LLMs where I've built several small-scale projects utilizing generative AI and Large Language Models (LLMs), specifically working with open-source models from Hugging Face. It allowed me to explore practical applications of AI in software development with the hands-on experience.
+I then moved to [Hike Messenger](https://en.wikipedia.org/wiki/Hike_Messenger), where I had the opportunity to work on core features of a messaging app used by millions of users. This experience deepened my understanding of real-time communication systems and performance optimization for high-traffic applications.
+
+Next, I joined [Directi](https://www.directi.com/) ([Titan](https://titan.email/)) as a Senior Software Engineer and Mobile Lead. Here, I not only led the mobile team but also contributed to technical initiatives in backend development, gaining valuable experience in building enterprise-grade email solutions.
+
+Currently, I'm part of the [Target](https://target.com/) team as a Lead Engineer, where I focus on enhancing the shopping experience for millions of users across the United States. In this role, I leverage my full-stack expertise to drive impactful improvements to Target's digital platforms.
+
+## Entrepreneurial Experience
+
+I've had the privilege of co-founding two startups. While neither venture achieved long-term success, these experiences were invaluable in teaching me about business operations, product development, and leadership. The lessons learned have shaped me into a more well-rounded professional with a deeper understanding of how technology intersects with business needs.
+
+## Current Interests
+
+In my free time, I explore emerging technologies and experiment with new frameworks. I'm particularly fascinated by Large Language Models (LLMs) and have built several projects utilizing generative AI and open-source models from Hugging Face. This hands-on experience has given me practical insights into the real-world applications of AI in software development and how it's transforming the industry.
